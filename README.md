@@ -17,6 +17,7 @@
   <img align="center" alt="Pablo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Pablo-Centos" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg">
   <img align="center" alt="Pablo-Magento" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" />
+  <img align="center" alt="Pablo-Analise de Dados" height="30" width="30" src="https://cdn.discordapp.com/attachments/1066155669180399719/1067214021188669520/2019014.png">
 </div>
   
   ##
